@@ -16,7 +16,7 @@ Essa falta de estrutura e comunicação reduz o engajamento da população com o
 ## **Objetivo do Projeto**
 
 O Viva Igarassu tem como objetivo valorizar o turismo sustentável e educativo em Igarassu, 
-conectando história, cultura e tecnologia.Por meio de uma plataforma interativa, 
+conectando história, cultura e tecnologia. Por meio de uma plataforma interativa, 
 visitantes e moradores poderão conhecer melhor os pontos turísticos, participar de atividades culturais e contribuir para a preservação do patrimônio local.
 
 ## **Funcionalidades Principais**
