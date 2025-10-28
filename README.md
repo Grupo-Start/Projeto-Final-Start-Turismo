@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="150" height="150" alt="Símbolo" src="https://github.com/user-attachments/assets/a240fa2a-b2ba-4c1c-87e8-24759c96c950" />
+</p>
+
+
 # Projeto Viva Igarassu
 Projeto final para o programa Start, da Rede Cidadã, no qual serão aplicados os ensinamentos aprendidos em aulas para a criação de um website sobre turismo na cidade de Igarassu - PE.
 
