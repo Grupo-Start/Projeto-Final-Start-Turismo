@@ -5,7 +5,7 @@ Projeto final para o programa Start, da Rede Cidadã, no qual serão aplicados o
 
 Igarassu, cujo nome em tupi significa “canoa grande” (da junção de ygara e usu), é reconhecida como uma cidade histórica e foi o primeiro núcleo de povoamento português no Brasil. O município abriga um dos patrimônios históricos e arquitetônicos mais importantes do país, destacando-se a Igreja dos Santos Cosme e Damião, a mais antiga em funcionamento no Brasil, conhecida também pelos milagres atribuídos aos santos padroeiros — como o de 1685, quando a cidade foi poupada da epidemia de febre amarela que atingiu outras regiões próximas.
 Outro marco importante é o Convento de Santo Antônio, construído em 1588 pelos franciscanos, que serviu de abrigo às tropas do coronel Manuel Pereira de Morais durante a Revolução Praieira. Atualmente, o local abriga o Museu da Pinacoteca de Igarassu, que preserva um dos acervos mais representativos da pintura colonial brasileira.
-Apesar de seu rico patrimônio histórico, cultural e natural, Igarassu ainda enfrenta desafios na promoção do turismo local, devido à falta de divulgação, centralização de informações e incentivos que conectem moradores e visitantes aos atrativos da cidade. Essa ausência de estrutura e comunicação limita o engajamento da comunidade e o potencial econômico e cultural do município — reforçando a importância de iniciativas como este projeto, que buscam valorizar e divulgar o turismo em Igarassu de forma inovadora e acessível.
+Apesar de seu rico patrimônio histórico, cultural e natural, Igarassu ainda enfrenta desafios na promoção do turismo local, devido à falta de divulgação, centralização de informações e incentivos que conectem moradores e visitantes aos atrativos da cidade. Essa ausência de estrutura e comunicação limita o engajamento da comunidade e o potencial econômico e cultural do município, reforçando a importância de iniciativas como este projeto, que buscam valorizar e divulgar o turismo em Igarassu de forma inovadora e acessível.
 ## **Problema**
 
 Apesar de possuir um rico patrimônio histórico, cultural e natural, Igarassu enfrenta desafios para valorizar e promover seu turismo local.
@@ -41,8 +41,8 @@ Facilita o planejamento e torna a visita mais organizada e educativa.
 
 | Categoria                    | Tecnologias             |
 | ---------------------------- | ----------------------- |
-|  **Frontend**                | CSS3, JavaScript |
-|  **Backend**                 | Node.js (Express)       |
+|  **Frontend**                | React, Javascript e CSS3|
+|  **Backend**                 | Node.js                 |
 |  **Banco de Dados**          | MySQL                   |
-|  **Design e Prototipagem**   | Figma, Canva            |
+|  **Design e Prototipagem**   | Figma                   |
 |  **Controle de Versão**      | Git e GitHub            |
